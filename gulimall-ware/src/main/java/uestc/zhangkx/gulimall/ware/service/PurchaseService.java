@@ -3,7 +3,7 @@ package uestc.zhangkx.gulimall.ware.service;
 import uestc.zhangkx.gulimall.ware.vo.MergeVo;
 import uestc.zhangkx.gulimall.ware.vo.PurchaseDoneVo;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.PageUtils;
 import uestc.zhangkx.gulimall.ware.entity.PurchaseEntity;
 
 import java.util.List;

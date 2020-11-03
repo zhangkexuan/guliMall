@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import uestc.zhangkx.gulimall.coupon.entity.SeckillSkuNoticeEntity;
 import uestc.zhangkx.gulimall.coupon.service.SeckillSkuNoticeService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

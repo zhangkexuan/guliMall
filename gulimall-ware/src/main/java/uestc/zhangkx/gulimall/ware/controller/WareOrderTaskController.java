@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import uestc.zhangkx.gulimall.ware.entity.WareOrderTaskEntity;
 import uestc.zhangkx.gulimall.ware.service.WareOrderTaskService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 

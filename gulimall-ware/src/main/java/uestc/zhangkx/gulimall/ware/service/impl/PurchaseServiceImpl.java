@@ -1,6 +1,6 @@
 package uestc.zhangkx.gulimall.ware.service.impl;
 
-import com.atguigu.common.constant.WareConstant;
+import uestc.zhangkx.common.constant.WareConstant;
 import uestc.zhangkx.gulimall.ware.service.WareSkuService;
 import uestc.zhangkx.gulimall.ware.vo.MergeVo;
 import uestc.zhangkx.gulimall.ware.entity.PurchaseDetailEntity;
@@ -19,8 +19,8 @@ import java.util.stream.Collectors;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.Query;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.Query;
 
 import uestc.zhangkx.gulimall.ware.dao.PurchaseDao;
 import uestc.zhangkx.gulimall.ware.entity.PurchaseEntity;

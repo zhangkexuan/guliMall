@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import uestc.zhangkx.gulimall.product.entity.SkuSaleAttrValueEntity;
 import uestc.zhangkx.gulimall.product.service.SkuSaleAttrValueService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

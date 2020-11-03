@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 
 import uestc.zhangkx.gulimall.coupon.entity.SpuBoundsEntity;
 import uestc.zhangkx.gulimall.coupon.service.SpuBoundsService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.*;
 
 import uestc.zhangkx.gulimall.product.entity.AttrGroupEntity;
 import uestc.zhangkx.gulimall.product.service.AttrGroupService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

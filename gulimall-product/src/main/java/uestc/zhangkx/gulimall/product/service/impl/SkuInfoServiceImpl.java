@@ -7,8 +7,8 @@ import java.util.Map;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.Query;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.Query;
 
 import uestc.zhangkx.gulimall.product.dao.SkuInfoDao;
 import uestc.zhangkx.gulimall.product.entity.SkuInfoEntity;

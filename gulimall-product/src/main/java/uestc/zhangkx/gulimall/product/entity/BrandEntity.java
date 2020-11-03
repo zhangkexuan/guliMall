@@ -1,9 +1,9 @@
 package uestc.zhangkx.gulimall.product.entity;
 
-import com.atguigu.common.valid.AddGroup;
-import com.atguigu.common.valid.ListValue;
-import com.atguigu.common.valid.UpdateGroup;
-import com.atguigu.common.valid.UpdateStatusGroup;
+import uestc.zhangkx.common.valid.AddGroup;
+import uestc.zhangkx.common.valid.ListValue;
+import uestc.zhangkx.common.valid.UpdateGroup;
+import uestc.zhangkx.common.valid.UpdateStatusGroup;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 

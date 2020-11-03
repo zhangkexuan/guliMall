@@ -1,6 +1,6 @@
 package uestc.zhangkx.gulimall.product.service.impl;
 
-import com.atguigu.common.constant.ProductConstant;
+import uestc.zhangkx.common.constant.ProductConstant;
 import uestc.zhangkx.gulimall.product.dao.AttrAttrgroupRelationDao;
 import uestc.zhangkx.gulimall.product.dao.AttrGroupDao;
 import uestc.zhangkx.gulimall.product.dao.CategoryDao;
@@ -25,8 +25,8 @@ import java.util.stream.Collectors;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.Query;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.Query;
 
 import uestc.zhangkx.gulimall.product.dao.AttrDao;
 import uestc.zhangkx.gulimall.product.entity.AttrEntity;

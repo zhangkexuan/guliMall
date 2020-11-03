@@ -3,9 +3,9 @@ package uestc.zhangkx.gulimall.product.controller;
 import java.util.Arrays;
 import java.util.Map;
 
-import com.atguigu.common.valid.AddGroup;
-import com.atguigu.common.valid.UpdateGroup;
-import com.atguigu.common.valid.UpdateStatusGroup;
+import uestc.zhangkx.common.valid.AddGroup;
+import uestc.zhangkx.common.valid.UpdateGroup;
+import uestc.zhangkx.common.valid.UpdateStatusGroup;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import uestc.zhangkx.gulimall.product.entity.BrandEntity;
 import uestc.zhangkx.gulimall.product.service.BrandService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

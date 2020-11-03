@@ -8,8 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import uestc.zhangkx.gulimall.product.entity.CategoryEntity;
 import uestc.zhangkx.gulimall.product.service.CategoryService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.R;
 
 
 /**

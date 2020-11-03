@@ -1,7 +1,7 @@
 package uestc.zhangkx.gulimall.order.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.PageUtils;
 import uestc.zhangkx.gulimall.order.entity.PaymentInfoEntity;
 
 import java.util.Map;

@@ -4,7 +4,7 @@ import uestc.zhangkx.gulimall.product.vo.AttrGroupRelationVo;
 import uestc.zhangkx.gulimall.product.vo.AttrRespVo;
 import uestc.zhangkx.gulimall.product.vo.AttrVo;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.PageUtils;
 import uestc.zhangkx.gulimall.product.entity.AttrEntity;
 
 import java.util.List;

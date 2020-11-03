@@ -2,7 +2,7 @@ package uestc.zhangkx.gulimall.product.service;
 
 import uestc.zhangkx.gulimall.product.vo.SpuSaveVo;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.PageUtils;
 import uestc.zhangkx.gulimall.product.entity.SpuInfoEntity;
 
 import java.util.Map;

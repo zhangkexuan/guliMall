@@ -2,7 +2,7 @@ package uestc.zhangkx.gulimall.product.service;
 
 import uestc.zhangkx.gulimall.product.vo.AttrGroupRelationVo;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.PageUtils;
 import uestc.zhangkx.gulimall.product.entity.AttrAttrgroupRelationEntity;
 
 import java.util.List;

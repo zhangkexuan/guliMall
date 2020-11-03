@@ -3,14 +3,14 @@ package uestc.zhangkx.gulimall.coupon.controller;
 import java.util.Arrays;
 import java.util.Map;
 
-import com.atguigu.common.to.SkuReductionTo;
+import uestc.zhangkx.common.to.SkuReductionTo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import uestc.zhangkx.gulimall.coupon.entity.SkuFullReductionEntity;
 import uestc.zhangkx.gulimall.coupon.service.SkuFullReductionService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.common.utils.R;
+import uestc.zhangkx.common.utils.PageUtils;
+import uestc.zhangkx.common.utils.R;
 
 
 /**
