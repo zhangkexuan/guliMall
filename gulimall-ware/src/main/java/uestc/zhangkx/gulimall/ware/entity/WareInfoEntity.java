@@ -10,8 +10,8 @@ import lombok.Data;
 /**
  * 仓库信息
  * 
- * @author leifengyang
- * @email leifengyang@gmail.com
+ * @author zhangkx
+ * @email zhangkx@gmail.com
  * @date 2019-10-08 09:59:40
  */
 @Data

@@ -21,16 +21,17 @@ import uestc.zhangkx.common.utils.R;
 /**
  * 优惠券信息
  *
- * @author leifengyang
- * @email leifengyang@gmail.com
+ * @author zhangkx
+ * @email zhangkx@gmail.com
  * @date 2019-10-08 09:36:40
  */
 @RefreshScope
 @RestController
 @RequestMapping("coupon/coupon")
 public class CouponController {
+
     @Autowired
-    private CouponService couponService;
+    CouponService couponService;
 
 
     @Value("${coupon.user.name}")

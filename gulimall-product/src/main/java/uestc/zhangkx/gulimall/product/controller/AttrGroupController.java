@@ -22,8 +22,8 @@ import uestc.zhangkx.common.utils.R;
 /**
  * 属性分组
  *
- * @author leifengyang
- * @email leifengyang@gmail.com
+ * @author zhangkx
+ * @email zhangkx@gmail.com
  * @date 2019-10-01 22:50:32
  */
 @RestController

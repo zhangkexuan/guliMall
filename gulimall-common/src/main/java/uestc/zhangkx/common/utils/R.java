@@ -13,10 +13,13 @@ import org.apache.http.HttpStatus;
 import java.util.HashMap;
 import java.util.Map;
 
+
 /**
  * 返回数据
+ * 用作返回到页面的数据
+ * @author zhangkx
+ * @date 2020/11/03
  *
- * @author Mark sunlightcs@gmail.com
  */
 public class R extends HashMap<String, Object> {
 	private static final long serialVersionUID = 1L;
@@ -57,6 +60,7 @@ public class R extends HashMap<String, Object> {
 		return new R();
 	}
 
+	@Override
 	public R put(String key, Object value) {
 		super.put(key, value);
 		return this;

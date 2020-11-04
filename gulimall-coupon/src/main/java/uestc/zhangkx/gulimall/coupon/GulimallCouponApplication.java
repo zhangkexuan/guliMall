@@ -2,10 +2,13 @@ package uestc.zhangkx.gulimall.coupon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 
-/**
+/*
+*
  * 1、如何使用Nacos作为配置中心统一管理配置
  *
  * 1）、引入依赖，
@@ -50,7 +53,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * 配置中心有的优先使用配置中心中的，
  *
  *
- */
+*/
 @EnableDiscoveryClient
 @SpringBootApplication
 public class GulimallCouponApplication {

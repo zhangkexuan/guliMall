@@ -3,10 +3,9 @@ package uestc.zhangkx.gulimall.product.service.impl;
 import uestc.zhangkx.common.to.SkuReductionTo;
 import uestc.zhangkx.common.to.SpuBoundTo;
 import uestc.zhangkx.common.utils.R;
-import com.atguigu.gulimall.product.entity.*;
+
 import uestc.zhangkx.gulimall.product.feign.CouponFeignService;
-import com.atguigu.gulimall.product.service.*;
-import com.atguigu.gulimall.product.vo.*;
+
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

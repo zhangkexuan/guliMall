@@ -20,8 +20,8 @@ import uestc.zhangkx.common.utils.R;
 /**
  * 会员登录记录
  *
- * @author leifengyang
- * @email leifengyang@gmail.com
+ * @author zhangkx
+ * @email zhangkx@gmail.com
  * @date 2019-10-08 09:47:05
  */
 @RestController

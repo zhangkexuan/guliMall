@@ -12,8 +12,6 @@ package uestc.zhangkx.common.exception;
  *  12: 订单
  *  13: 购物车
  *  14: 物流
- *
- *
  */
 public enum BizCodeEnume {
     UNKNOW_EXCEPTION(10000,"系统未知异常"),

@@ -11,8 +11,8 @@ import lombok.Data;
 /**
  * 商品阶梯价格
  * 
- * @author leifengyang
- * @email leifengyang@gmail.com
+ * @author zhangkx
+ * @email zhangkx@gmail.com
  * @date 2019-10-08 09:36:40
  */
 @Data
